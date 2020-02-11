@@ -15,3 +15,8 @@ If you are looking for open source code related to FEEDweave, it can be found he
 - [arweave-gateway](https://github.com/denisnazarov/arweave-gateway)
 - [arweave-composer](https://github.com/denisnazarov/arweave-composer)
 - [arweave-explorer](https://github.com/denisnazarov/arweave-explorer)
+
+
+## How FEEDweave works
+
+How FEEDweave works technically is described in this [tutorial](https://feedweave.co/post/47zeUWFxruVhf9l-IZpxw-I7No7up2wSGekw7gQFwhE).
